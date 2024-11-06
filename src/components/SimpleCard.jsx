@@ -7,7 +7,7 @@ const SimpleCard = () => {
   return (
     <>
       <div className='simpleCard__wrapper'>
-          <Image />
+        <Image />
         <div className='titleDescription__wrapper'>
           <Title />
           <Description />
